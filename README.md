@@ -10,6 +10,7 @@ https://github.com/martinakraus/docker_workshop
 
 ## Resources
 
+* [Holy Docker CheatSheet](https://www.docker.com/sites/default/files/d8/2019-09/docker-cheat-sheet.pdf)
 * [Docker Hub](https://hub.docker.com/) 
 * [Docker-Compose Documentation](https://docs.docker.com/compose/)
 * [More Docker Labs](https://training.play-with-docker.com/)
