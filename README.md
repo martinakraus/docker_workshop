@@ -6,6 +6,7 @@ https://docs.google.com/presentation/d/1WINzfGd33Ck-fq1OqASYy-MGkdNCeehkcsWex7Nu
 
 ## Repo Url
 
+https://github.com/martinakraus/docker_workshop
 
 ## Resources
 
